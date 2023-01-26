@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondohome"
+    android:layout_height="280dp"
+    android:layout_margin="3dp">
+
+    <TextView
+        android:id="@+id/mytexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text=""
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="25dp" />
+
+    <ImageView
+        android:layout_marginTop="80dp"
+        android:id="@+id/imagenCeldas"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:src="@drawable/imagenlibroharrypotter"
+        android:scaleType="fitCenter"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/myautor"
+        android:layout_below="@id/imagenCeldas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text=""
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20dp" />
+
+</RelativeLayout>

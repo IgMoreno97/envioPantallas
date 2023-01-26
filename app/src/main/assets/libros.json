@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "name": "Harry Potter",
+      "author": "JK Rowlling",
+      "fotolibro": "https://m.media-amazon.com/images/I/91R1AixEiLL.jpg"
+
+    },
+    {
+      "name": "La chica del tren",
+      "author": "Paula Hawkings",
+      "fotolibro": "https://m.media-amazon.com/images/I/71dmQQlcDlL.jpg"
+    },
+    {
+      "name": "Relatos cortos",
+      "author": "Antón Chéjov",
+      "fotolibro": "https://m.media-amazon.com/images/I/51oaOemE4sL._SX342_SY445_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Los cuentos de Canterbury",
+      "author": "Geoffrey Chaucer",
+      "fotolibro": "https://m.media-amazon.com/images/I/51MMfukZWvL.jpg"
+    },
+    {
+      "name": "El extranjero",
+      "author": "Albert Camus Nobel prize medal mod.png",
+      "fotolibro": "https://images.cdn2.buscalibre.com/fit-in/360x360/bf/25/bf2575c6341c42feafcb98dbed10ca37.jpg"
+    }
+  ]
+}
